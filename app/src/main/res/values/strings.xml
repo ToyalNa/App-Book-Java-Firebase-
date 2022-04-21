@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">STTG</string>
+
+    <string name="name">Tên người dùng</string>
+    <string name="user">Tài khoản</string>
+    <string name="pass">Mật khẩu</string>
+    <string name="register">Đăng Ký</string>
+    <string name="login">Đăng Nhập</string>
+</resources>
