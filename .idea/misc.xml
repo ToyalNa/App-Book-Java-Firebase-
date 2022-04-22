@@ -15,7 +15,13 @@
         <entry key="..\:/BaiThiCK_LTDD/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
         <entry key="..\:/BaiThiCK_LTDD/app/src/main/res/layout/activity_register.xml" value="0.209375" />
         <entry key="..\:/BaiThiCK_LTDD/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
+        <entry key="..\:/BaiThiCK_LTDD/app/src/main/res/layout/fragment_favorite.xml" value="0.209375" />
+        <entry key="..\:/BaiThiCK_LTDD/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/BaiThiCK_LTDD/app/src/main/res/layout/fragment_libary.xml" value="0.209375" />
+        <entry key="..\:/BaiThiCK_LTDD/app/src/main/res/layout/fragment_person.xml" value="0.209375" />
+        <entry key="..\:/BaiThiCK_LTDD/app/src/main/res/layout/fragment_search.xml" value="0.209375" />
         <entry key="..\:/BaiThiCK_LTDD/app/src/main/res/layout/item_viewpager.xml" value="0.209375" />
+        <entry key="..\:/BaiThiCK_LTDD/app/src/main/res/menu/navigation.xml" value="0.209375" />
       </map>
     </option>
   </component>

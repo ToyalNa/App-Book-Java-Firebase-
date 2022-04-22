@@ -6,4 +6,11 @@
     <string name="pass">Mật khẩu</string>
     <string name="register">Đăng Ký</string>
     <string name="login">Đăng Nhập</string>
+
+    <string name="home">Home</string>
+    <string name="libary">Libary</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="person">Person</string>
+
 </resources>
