@@ -24,6 +24,7 @@
     <string name="home">Home</string>
     <string name="libary">Libary</string>
     <string name="favorite">Favorite</string>
+    <string name="account_status">Account Status</string>
     <string name="search">Search</string>
     <string name="person">Person</string>
     <string name="books">Books</string>

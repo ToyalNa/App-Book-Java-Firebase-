@@ -115,7 +115,7 @@
                 android:id="@+id/accountTypeTv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="N/A"
+                android:text="User"
                 android:textColor="@color/black"/>
 
         </LinearLayout>
@@ -138,7 +138,7 @@
                 android:id="@+id/memberDateTv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="N/A"
+                android:text="24/4/2022"
                 android:textColor="@color/black"/>
 
         </LinearLayout>
@@ -161,7 +161,30 @@
                 android:id="@+id/favoriteBookCountTv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="N/A"
+                android:text="142"
+                android:textColor="@color/black"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/account_status"
+                android:textStyle="bold"
+                android:textColor="@color/black"/>
+
+            <TextView
+                android:id="@+id/accountStatusTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Not Verified"
                 android:textColor="@color/black"/>
 
         </LinearLayout>
